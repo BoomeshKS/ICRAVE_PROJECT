@@ -1,22 +1,9 @@
-import React, { useState, useRef } from 'react';
+import React, { useRef } from 'react';
 import './ContactUs.css';
 import emailjs from '@emailjs/browser';
 
 
 const ContactUs = () => {
-  // const [formData, setFormData] = useState({
-  //   name: '',
-  //   email: '',
-  //   message: ''
-  // });
-
-  // const handleChange = (e) => {
-  //   const { name, value } = e.target;
-  //   setFormData({
-  //     ...formData,
-  //     [name]: value
-  //   });
-  // };
 
  
   const form = useRef();
