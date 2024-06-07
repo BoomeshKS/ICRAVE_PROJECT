@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoomeshKS/ICRAVE_PROJECT/static/css/main.bfaf625f.css",
+    "main.js": "/BoomeshKS/ICRAVE_PROJECT/static/js/main.f7afc36e.js",
+    "static/js/453.419a5d54.chunk.js": "/BoomeshKS/ICRAVE_PROJECT/static/js/453.419a5d54.chunk.js",
+    "index.html": "/BoomeshKS/ICRAVE_PROJECT/index.html",
+    "main.bfaf625f.css.map": "/BoomeshKS/ICRAVE_PROJECT/static/css/main.bfaf625f.css.map",
+    "main.f7afc36e.js.map": "/BoomeshKS/ICRAVE_PROJECT/static/js/main.f7afc36e.js.map",
+    "453.419a5d54.chunk.js.map": "/BoomeshKS/ICRAVE_PROJECT/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfaf625f.css",
+    "static/js/main.f7afc36e.js"
+  ]
+}
